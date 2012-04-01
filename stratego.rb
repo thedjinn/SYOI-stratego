@@ -3,15 +3,15 @@ class Stratego
     marshal: 10,
     general: 10,
     colonel: 2,
-    major: 3,
+    major: 6,
     captain: 4,
-    lieutenant: 4,
+    lieutenant: 2,
     sergeant: 4,
     miner: 5,
-    scout: 8,
+    scout: 5,
     spy: 1,
     bomb: 6,
-    flag: 1
+    flag: 5
   }
 
   DEFEATS = {
