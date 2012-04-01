@@ -1,6 +1,6 @@
 class Stratego
   STARTING_PIECES = {
-    marshal: 1,
+    marshal: 10,
     general: 1,
     colonel: 2,
     major: 3,
