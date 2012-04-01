@@ -10,7 +10,7 @@ class Stratego
     miner: 5,
     scout: 5,
     spy: 1,
-    bomb: 6,
+    bomb: 2,
     flag: 5
   }
 
